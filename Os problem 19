@@ -1,0 +1,3 @@
+A barbershop consists of a waiting roomwith n chairs and a barber room with one barber chair. If there are no
+
+customers to be served, the barber goes to sleep. If a customer entersthe barbershop and all chairs are occupied, then the customer leaves theshop. If the barber is busy but chairs are available, then the customer sitsin one of the free chairs. If the barber is asleep, the customer wakes upthe barber. Write a program to coordinate the barber and the customers.Using synchronization tools like locks, semaphores and monitorsprovide a solution to his problem.
